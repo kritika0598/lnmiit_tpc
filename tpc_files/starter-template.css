@@ -5,3 +5,38 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+#footer{
+	background-color:#003;
+}
+.wrapper p
+{
+	color:#FFF;
+}
+.footer_header{
+	color:#CCC;
+	font-size:25px;
+}
+.col-sm-12{
+	text-align:center;
+	color:#FF3;
+}
+
+.about{
+	background-color:#CCC;
+}
+.about h1{
+	text-align:center;
+	color:#006;
+	line-height:50px;
+}
+.director{
+	background-color:#CCF;
+	
+}
+.director h1{
+	text-align:center;
+	color:#006;
+}
+hr{
+	color:#006;
+}
