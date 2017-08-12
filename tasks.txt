@@ -1,0 +1,5 @@
+1.buttons are to be created for the pictures.
+2.those pictures are to be set on auto scroll usign JS
+3.major recruiters column is to be made. 
+4.review the existing code.
+5.logo of lnmiit
