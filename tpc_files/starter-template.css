@@ -1,7 +1,84 @@
 body {
   padding-top: 5rem;
+padding-left: 0px;
+    padding-right: 0px;
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+
+#footer{
+	background-color:#003;
+}
+.wrapper p
+{
+	color:#FFF;
+}
+.footer_header{
+	color:#CCC;
+	font-size:25px;
+}
+.col-sm-12{
+	text-align:center;
+	color:#FF3;
+}
+
+.about{
+	background-color:#CCC;
+}
+.about h1{
+	text-align:center;
+	color:#006;
+	line-height:50px;
+}
+.director{
+	background-color:#CCF;
+	
+}
+.director h1{
+	text-align:center;
+	color:#006;
+}
+hr{
+	color:#006;
+}
+
+.btn-circle {
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+backface-visibility: hidden;
+}
+
+.float-cont{
+    float:right;
+    text-align: right;
+    transform: 
+}
+
+.logo {
+    
+    font-size: 2em;
+    font-weight: bold;
+}
+.c-wid {
+    width: 100%;
+    width:inherit;
+    padding-top:  0px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+.container {
+    width: inherit;
+    padding-top:  0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
