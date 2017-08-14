@@ -9,7 +9,8 @@ padding-left: 0px;
 }
 
 #footer{
-	background-color:#003;
+	padding-left:20px;
+	background-color:#8c1515;
 }
 .wrapper p
 {
@@ -80,5 +81,17 @@ backface-visibility: hidden;
     padding-top:  0px;
     padding-left: 0px;
     padding-right: 0px;
+}
+
+.navi{
+	background-color:#900;
+}
+
+.navbar .navbar-toggleable-md .fixed-top{
+	background-color:#C00;
+}
+
+.nav-item{
+	color:#FFF;
 }
 
